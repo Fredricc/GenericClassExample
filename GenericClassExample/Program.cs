@@ -10,7 +10,7 @@ namespace GenericClassExample
             User<bool, string> user2 = new User<bool, string>();
 
             //set value into generic field
-            user1.RegistrationStatus = 1234;
+            user1.RegistrationStatus = 34;
             user2.RegistrationStatus = false;
 
             user1.Age = 10;
